@@ -1,0 +1,16 @@
+Execution steps
+Clone the repository or download the project files.
+Import the project into your IDE:
+Open your IDE (such as Eclipse or IntelliJ IDEA).
+Import the Maven project into your IDE workspace.
+Build and Deploy the Project:
+Build the project to generate the WAR artifact.
+Deploy the WAR artifact on Tomcat or any other servlet container.
+Access the Application:
+Open a web browser.
+Enter the URL of the deployed application to access the index.jsp page.
+
+Learnings
+Creating a Maven web project simplifies the setup process for web applications.
+Maven's project structure and conventions help in organizing project resources.
+Deploying the artifact on Tomcat demonstrates the integration of Maven with servlet containers for web application deployment.
